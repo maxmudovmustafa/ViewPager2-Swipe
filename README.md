@@ -1,6 +1,6 @@
-[![](https://jitpack.io/v/mr-shoxruxbek/beruniy-dialog.svg)](https://jitpack.io/#mr-shoxruxbek/beruniy-dialog)
+[![](https://jitpack.io/v/mr-shoxruxbek/ViewPager2-Transformation.svg)](https://jitpack.io/#mr-shoxruxbek/ViewPager2-Transformation)
 
-# beruniy-dialog
+# beruniy-swiper
 
 **Add library to Your project**
 
