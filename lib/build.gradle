@@ -1,9 +1,8 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
-apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'com.github.MrShoxruxbek.Beruniy-Files'
+group = 'com.github.mr-shoxruxbek.ViewPager2-Swipe'
 
 version = '1.0'
 android {
