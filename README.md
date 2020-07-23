@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/mr-shoxruxbek/ViewPager2-Transformation.svg)](https://jitpack.io/#mr-shoxruxbek/ViewPager2-Transformation)
+[![](https://jitpack.io/v/mr-shoxruxbek/ViewPager2-Swipe.svg)](https://jitpack.io/#mr-shoxruxbek/ViewPager2-Swipe)
 
 # beruniy-swiper
 
